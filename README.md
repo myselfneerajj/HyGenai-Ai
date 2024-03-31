@@ -53,4 +53,4 @@ npm install
 npm run dev
 ```
 
-Visit [localhost:3000](http://localhost:5173/) to experience Gemini on your machine.
+Visit [localhost:3000](http://localhost:5173/) to experience HyGenai-Ai on your machine.
